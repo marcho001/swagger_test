@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "swagger-autogen": "^2.10.0",
+    "swagger-ui-express": "^4.1.6"
+  }
 }
